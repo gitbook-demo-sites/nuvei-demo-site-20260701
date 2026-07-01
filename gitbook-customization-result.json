@@ -1,0 +1,213 @@
+{
+  "updatedAt": "2026-07-01T13:17:26.000Z",
+  "title": "Nuvei Documentation Hub",
+  "localizedTitle": {},
+  "internationalization": {
+    "locale": "en"
+  },
+  "styling": {
+    "theme": "clean",
+    "primaryColor": {
+      "dark": "#0C98D4",
+      "light": "#160850"
+    },
+    "infoColor": {
+      "dark": "#0C98D4",
+      "light": "#0C98D4"
+    },
+    "successColor": {
+      "dark": "#00B67A",
+      "light": "#00B67A"
+    },
+    "warningColor": {
+      "dark": "#E31B48",
+      "light": "#E31B48"
+    },
+    "dangerColor": {
+      "dark": "#E40046",
+      "light": "#CA013F"
+    },
+    "tint": {
+      "color": {
+        "dark": "#160850",
+        "light": "#FAF9F8"
+      }
+    },
+    "corners": "straight",
+    "depth": "flat",
+    "links": "accent",
+    "font": "Inter",
+    "monospaceFont": "IBMPlexMono",
+    "icons": "regular",
+    "background": "plain",
+    "sidebar": {
+      "background": "filled",
+      "list": "line"
+    },
+    "codeTheme": {
+      "default": {
+        "light": "default-light",
+        "dark": "default-dark"
+      },
+      "openapi": {
+        "light": "default-light",
+        "dark": "default-dark"
+      }
+    },
+    "search": "prominent"
+  },
+  "favicon": {
+    "icon": {
+      "light": "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69dcf0eac485075180e47ef4_favicon.jpg",
+      "dark": "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69dcf1638e16eb08e4669e3d_favicon-dark.jpg"
+    }
+  },
+  "header": {
+    "preset": "default",
+    "logo": {
+      "light": "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69dcf0eac485075180e47ef4_favicon.jpg",
+      "dark": "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69dcf1638e16eb08e4669e3d_favicon-dark.jpg"
+    },
+    "links": [
+      {
+        "to": {
+          "url": "https://www.nuvei.com/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Nuvei",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "url": "https://docs.nuvei.com/documentation/home/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Current docs",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "url": "https://docs.nuvei.com/api/v2/main/docs/introduction/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "button-secondary",
+        "title": "API docs",
+        "localizedTitle": {}
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "light": "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69dcf0eac485075180e47ef4_favicon.jpg",
+      "dark": "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69dcf1638e16eb08e4669e3d_favicon-dark.jpg"
+    },
+    "groups": [
+      {
+        "links": [
+          {
+            "to": {
+              "kind": "space",
+              "space": "XeLFuyAuy7wt4ZGIWbb5"
+            },
+            "title": "Start integrating",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "afWAheAibYE8eCe5yB9X"
+            },
+            "title": "API reference",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "rUdUhVNVx8fe3XpFqEmR"
+            },
+            "title": "Operations",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Demo paths",
+        "localizedTitle": {}
+      },
+      {
+        "links": [
+          {
+            "to": {
+              "url": "https://github.com/gitbook-demo-sites/nuvei-demo-site-20260701",
+              "kind": "url"
+            },
+            "title": "Source repo",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "url": "https://www.nuvei.com/",
+              "kind": "url"
+            },
+            "title": "Nuvei website",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Sources",
+        "localizedTitle": {}
+      }
+    ],
+    "copyright": "Nuvei Documentation Hub demo - built for review in GitBook."
+  },
+  "themes": {
+    "default": "light",
+    "toggeable": true
+  },
+  "trademark": {
+    "enabled": true
+  },
+  "feedback": {
+    "enabled": true
+  },
+  "ai": {
+    "mode": "assistant",
+    "suggestions": [
+      "Which Nuvei integration path should I choose?",
+      "How do webhooks affect fulfillment?",
+      "Where do I find APM setup guidance?",
+      "How should finance reconcile transactions?",
+      "What should be migrated to OpenAPI?"
+    ]
+  },
+  "advancedCustomization": {
+    "enabled": true
+  },
+  "pageActions": {
+    "items": [
+      "assistant",
+      "markdown",
+      "external-ai",
+      "mcp",
+      "pdf"
+    ]
+  },
+  "pagination": {
+    "enabled": true
+  },
+  "privacyPolicy": {
+    "url": "https://www.nuvei.com/privacy-policy"
+  },
+  "socialPreview": {
+    "url": "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69e6815b9bf945343178b129_OG-image.jpg"
+  },
+  "socialAccounts": [],
+  "externalLinks": {
+    "target": "self"
+  },
+  "insights": {
+    "trackingCookie": true
+  }
+}

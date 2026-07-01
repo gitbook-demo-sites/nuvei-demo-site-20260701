@@ -1,0 +1,22 @@
+{
+  "HOME": {
+    "status": 204,
+    "space": "Z2wz5F5o8YDR44Us2tQ9",
+    "folder": "home"
+  },
+  "GUIDES": {
+    "status": 204,
+    "space": "XeLFuyAuy7wt4ZGIWbb5",
+    "folder": "integration-guides"
+  },
+  "API": {
+    "status": 204,
+    "space": "afWAheAibYE8eCe5yB9X",
+    "folder": "api-reference"
+  },
+  "OPS": {
+    "status": 204,
+    "space": "rUdUhVNVx8fe3XpFqEmR",
+    "folder": "operations-support"
+  }
+}

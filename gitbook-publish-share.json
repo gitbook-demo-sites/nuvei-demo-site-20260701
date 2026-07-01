@@ -1,0 +1,81 @@
+{
+  "publish_status": 200,
+  "publish": {
+    "object": "site",
+    "id": "site_lK9LH",
+    "type": "ultimate",
+    "appliedType": "ultimate",
+    "title": "Nuvei Documentation Hub",
+    "icon": {
+      "icon": {
+        "dark": "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69dcf1638e16eb08e4669e3d_favicon-dark.jpg",
+        "light": "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69dcf0eac485075180e47ef4_favicon.jpg"
+      }
+    },
+    "basename": "nuvei-documentation-hub",
+    "visibility": "share-link",
+    "permissionsModel": "site",
+    "defaultLevel": null,
+    "published": true,
+    "createdAt": "2026-07-01T13:09:07.000Z",
+    "siteSpaces": 4,
+    "features": [
+      {
+        "id": "sites-share-links",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-ai-assistant",
+        "plan": "ultimate",
+        "frozen": false
+      },
+      {
+        "id": "sites-pdf-export",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-page-feedback",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-advanced-customization",
+        "plan": "premium",
+        "frozen": false,
+        "customizations": [
+          "header-logo",
+          "footer-logo",
+          "footer-links",
+          "footer-copyright",
+          "semantic-colors"
+        ]
+      },
+      {
+        "id": "sites-sections",
+        "plan": "ultimate",
+        "frozen": false
+      }
+    ],
+    "urls": {
+      "location": "/orgs/7N6Uef1YNS68eBZgQRzB/sites/site_lK9LH",
+      "app": "https://app.gitbook.com/o/7N6Uef1YNS68eBZgQRzB/sites/site_lK9LH",
+      "preview": "https://sites.gitbook.com/preview/site_lK9LH/"
+    }
+  },
+  "share_status": 201,
+  "share": {
+    "object": "share-link",
+    "id": "untf1X0ECyozrCyDhCBv",
+    "createdAt": "2026-07-01T13:17:28.000Z",
+    "name": "Nuvei demo review",
+    "active": true,
+    "urls": {
+      "published": "https://nuvei.gitbook.io/nuvei-documentation-hub/untf1X0ECyozrCyDhCBv/"
+    }
+  },
+  "published_url": "https://nuvei.gitbook.io/nuvei-documentation-hub/untf1X0ECyozrCyDhCBv/",
+  "app_url": "https://app.gitbook.com/o/7N6Uef1YNS68eBZgQRzB/sites/site_lK9LH",
+  "preview_url": "https://sites.gitbook.com/preview/site_lK9LH/"
+}
