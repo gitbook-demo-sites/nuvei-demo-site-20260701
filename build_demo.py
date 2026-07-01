@@ -69,7 +69,7 @@ write(
     ---
     description: "Developer and merchant documentation for Nuvei's global payment infrastructure."
     icon: house
-    cover: "https://raw.githubusercontent.com/gitbook-demo-sites/nuvei-demo-site-20260701/main/assets/nuvei-minimal-banner.png"
+    cover: "https://raw.githubusercontent.com/gitbook-demo-sites/nuvei-demo-site-20260701/main/assets/nuvei-minimal-banner.png?v=07bc08e"
     coverY: 0
     layout:
       width: wide
