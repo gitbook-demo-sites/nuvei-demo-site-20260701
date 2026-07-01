@@ -33,9 +33,9 @@
     ## Choose your path
 
     <table data-view="cards"><thead><tr><th width="48"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-    <tr><td><i class="fa-rocket"></i></td><td><strong>Start integrating</strong></td><td>Pick Payment Page, Web SDK, Simply Connect, server-to-server, or plugins.</td><td><a href="https://app.gitbook.com/s/XSPACE_GUIDES/">Start integrating</a></td></tr>
-<tr><td><i class="fa-code"></i></td><td><strong>Build against the API</strong></td><td>Review authentication, payment lifecycle, request patterns, errors, and webhooks.</td><td><a href="https://app.gitbook.com/s/XSPACE_API/">Build against the API</a></td></tr>
-<tr><td><i class="fa-chart-line"></i></td><td><strong>Run payment operations</strong></td><td>Use Control Panel, reporting, risk, reconciliation, and finance workflows.</td><td><a href="https://app.gitbook.com/s/XSPACE_OPS/">Run payment operations</a></td></tr>
+    <tr><td><i class="fa-rocket"></i></td><td><strong>Start integrating</strong></td><td>Pick Payment Page, Web SDK, Simply Connect, server-to-server, or plugins.</td><td><a href="https://app.gitbook.com/s/XeLFuyAuy7wt4ZGIWbb5/">Start integrating</a></td></tr>
+<tr><td><i class="fa-code"></i></td><td><strong>Build against the API</strong></td><td>Review authentication, payment lifecycle, request patterns, errors, and webhooks.</td><td><a href="https://app.gitbook.com/s/afWAheAibYE8eCe5yB9X/">Build against the API</a></td></tr>
+<tr><td><i class="fa-chart-line"></i></td><td><strong>Run payment operations</strong></td><td>Use Control Panel, reporting, risk, reconciliation, and finance workflows.</td><td><a href="https://app.gitbook.com/s/rUdUhVNVx8fe3XpFqEmR/">Run payment operations</a></td></tr>
 <tr><td><i class="fa-globe"></i></td><td><strong>Go local everywhere</strong></td><td>Map regions, payment methods, APMs, and market readiness in one place.</td><td><a href="market-map.md">Go local everywhere</a></td></tr>
     </tbody></table>
 

@@ -1,0 +1,22 @@
+{
+  "org": "7N6Uef1YNS68eBZgQRzB",
+  "site": "site_lK9LH",
+  "spaces": {
+    "HOME": "Z2wz5F5o8YDR44Us2tQ9",
+    "GUIDES": "XeLFuyAuy7wt4ZGIWbb5",
+    "API": "afWAheAibYE8eCe5yB9X",
+    "OPS": "rUdUhVNVx8fe3XpFqEmR"
+  },
+  "sections": {
+    "HOME": "sitesc_pDP77",
+    "GUIDES": "sitesc_oCBpF",
+    "API": "sitesc_Fef0N",
+    "OPS": "sitesc_eA9yq"
+  },
+  "site_spaces": {
+    "HOME": "sitesp_N3fWJ",
+    "GUIDES": "sitesp_hun8C",
+    "API": "sitesp_BQP1Z",
+    "OPS": "sitesp_JB6pf"
+  }
+}

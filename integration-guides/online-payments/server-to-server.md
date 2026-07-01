@@ -19,4 +19,4 @@ sequenceDiagram
   Merchant-->>Customer: Confirm order state
 ```
 
-See the [API Reference](https://app.gitbook.com/s/XSPACE_API/) for request conventions, authentication, errors, and webhooks.
+See the [API Reference](https://app.gitbook.com/s/afWAheAibYE8eCe5yB9X/) for request conventions, authentication, errors, and webhooks.
