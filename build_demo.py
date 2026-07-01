@@ -67,9 +67,9 @@ write(
     "home/README.md",
     """
     ---
-    description: Developer and merchant documentation, organized for every payment experience.
+    description: "Developer and merchant documentation for Nuvei's global payment infrastructure."
     icon: house
-    cover: "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69e6815b9bf945343178b129_OG-image.jpg"
+    cover: "https://raw.githubusercontent.com/gitbook-demo-sites/nuvei-demo-site-20260701/main/assets/nuvei-minimal-banner.png"
     coverY: 0
     layout:
       width: wide
@@ -90,7 +90,7 @@ write(
 
     # Nuvei Documentation Hub
 
-    Growth infrastructure for every payment, everywhere.
+    The infrastructure for every payment, everywhere.
 
     This first-draft demo reorganizes Nuvei's public documentation into a GitBook experience that is easier to scan, search, review, and adapt by audience. It keeps the familiar pillars from the current docs portal, then adds clearer developer journeys, API patterns, operational guidance, and a visible release surface.
 
