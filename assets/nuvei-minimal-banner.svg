@@ -1,65 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2400" height="720" viewBox="0 0 2400 720" role="img" aria-labelledby="title desc">
   <title id="title">Nuvei documentation hub banner</title>
-  <desc id="desc">Catchy Nuvei-branded banner using the website palette, logo, and payment-infrastructure positioning.</desc>
-  <rect width="2400" height="720" fill="#0C98D4"/>
-  <rect x="0" y="0" width="2400" height="12" fill="#160850"/>
-  <rect x="0" y="708" width="2400" height="12" fill="#FAF9F8"/>
-  <circle cx="2140" cy="120" r="360" fill="#FAF9F8" opacity="0.12"/>
-  <circle cx="2020" cy="540" r="220" fill="#160850" opacity="0.10"/>
-  <g opacity="0.32" fill="none" stroke="#FAF9F8" stroke-width="4">
-    <circle cx="1780" cy="150" r="44"/>
-    <circle cx="1888" cy="150" r="44"/>
-    <circle cx="1996" cy="150" r="44"/>
-    <circle cx="2104" cy="150" r="44"/>
-    <circle cx="1834" cy="258" r="44"/>
-    <circle cx="1942" cy="258" r="44"/>
-    <circle cx="2050" cy="258" r="44"/>
-    <circle cx="2158" cy="258" r="44"/>
-    <circle cx="1780" cy="366" r="44"/>
-    <circle cx="1888" cy="366" r="44"/>
-    <circle cx="1996" cy="366" r="44"/>
-    <circle cx="2104" cy="366" r="44"/>
-    <circle cx="1834" cy="474" r="44"/>
-    <circle cx="1942" cy="474" r="44"/>
-    <circle cx="2050" cy="474" r="44"/>
-    <circle cx="2158" cy="474" r="44"/>
+  <desc id="desc">Minimal Nuvei-branded documentation banner with global payment rails and platform proof points.</desc>
+  <rect width="2400" height="720" fill="#FAF9F8"/>
+  <rect x="0" y="0" width="2400" height="720" fill="#160850"/>
+  <path d="M0 610 C420 525 690 668 1080 588 C1480 506 1698 318 2400 372 L2400 720 L0 720 Z" fill="#0C98D4"/>
+  <path d="M0 646 C426 574 732 700 1114 632 C1512 560 1748 396 2400 434 L2400 720 L0 720 Z" fill="#FAF9F8" opacity="0.92"/>
+  <g opacity="0.18" fill="none" stroke="#FAF9F8" stroke-width="2">
+    <path d="M1450 114 C1655 58 1900 70 2204 146"/>
+    <path d="M1435 210 C1688 147 1940 172 2248 282"/>
+    <path d="M1468 320 C1698 271 1935 300 2190 420"/>
   </g>
-  <g opacity="0.5" fill="#FAF9F8" font-family="Inter Tight, Inter, Arial, sans-serif" font-size="36" font-weight="600" text-anchor="middle">
-    <text x="1780" y="163">$</text>
-    <text x="1888" y="163">€</text>
-    <text x="1996" y="163">¥</text>
-    <text x="2104" y="163">£</text>
-    <text x="1834" y="271">R$</text>
-    <text x="1942" y="271">zł</text>
-    <text x="2050" y="271">Kč</text>
-    <text x="2158" y="271">₿</text>
-    <text x="1780" y="379">₹</text>
-    <text x="1888" y="379">$</text>
-    <text x="1996" y="379">€</text>
-    <text x="2104" y="379">¥</text>
-    <text x="1834" y="487">£</text>
-    <text x="1942" y="487">R$</text>
-    <text x="2050" y="487">zł</text>
-    <text x="2158" y="487">Kč</text>
+  <g transform="translate(156 100) scale(2.6)">
+    <path d="M16.7147 12.9219V24.587H11.7424V15.1166C11.7424 13.0885 10.6962 12.058 8.62392 12.058C7.23303 12.058 5.99045 12.6604 5.03446 13.7955L4.96632 13.875V24.587H0V8.27098H4.96632V10.6613L5.4373 10.2546C6.77608 9.0923 8.99669 7.85645 11.2474 7.85645C14.7166 7.85645 16.7147 9.70249 16.7147 12.9219Z" fill="#FAF9F8"/>
+    <path d="M70.2631 17.8479V16.9685C70.2631 11.5175 66.8159 7.85449 61.6772 7.85449C56.5385 7.85449 52.7246 11.5311 52.7246 16.4087C52.7246 21.2862 56.5085 24.9996 61.9237 24.9996C64.6394 24.9996 67.2488 24.2364 68.812 22.9928L66.7858 20.093C65.7316 20.8775 64.1003 21.3947 62.6132 21.3947C59.7713 21.3947 58.3283 19.7385 57.9535 18.3206C57.8934 18.1791 57.8693 17.8479 57.8693 17.8479H70.2631ZM57.7891 14.9055L57.8493 14.5859C58.1118 13.0749 59.2622 11.4613 61.6792 11.4613C64.2526 11.4613 65.3729 13.1544 65.5452 14.6014L65.5833 14.9074H57.7911L57.7891 14.9055Z" fill="#FAF9F8"/>
+    <path d="M76.611 8.27051H71.6387V24.5866H76.611V8.27051Z" fill="#FAF9F8"/>
+    <path d="M30.1322 8.27147H35.0985V24.5875H30.1322V22.2901L29.6612 22.6969C28.3906 23.8166 26.192 25.0001 23.8512 25.0001C20.3519 25.0001 18.4219 23.2277 18.4219 20.0063V8.26953H23.3942V17.8039C23.3942 19.8165 24.4264 20.7986 26.5428 20.7986C28.2924 20.7986 29.4287 19.8533 30.0721 19.0552L30.1322 18.9816V8.26953V8.27147Z" fill="#FAF9F8"/>
+    <path d="M53.7598 8.27051L47.156 24.5846H41.6506L35.0469 8.27051H40.2898L44.4043 19.3158L48.5169 8.27051H53.7598Z" fill="#FAF9F8"/>
+    <path d="M77.0002 2.79715C77.0002 4.36619 75.7356 5.5943 74.1202 5.5943C72.5049 5.5943 71.2402 4.36619 71.2402 2.79715C71.2402 1.22811 72.5049 0 74.1202 0C75.7356 0 77.0002 1.22811 77.0002 2.79715Z" fill="#0C98D4"/>
   </g>
-  <g transform="translate(168 104) scale(2.35)">
-    <g clip-path="url(#nuvei-logo-clip)">
-      <path d="M16.7147 12.9219V24.587H11.7424V15.1166C11.7424 13.0885 10.6962 12.058 8.62392 12.058C7.23303 12.058 5.99045 12.6604 5.03446 13.7955L4.96632 13.875V24.587H0V8.27098H4.96632V10.6613L5.4373 10.2546C6.77608 9.0923 8.99669 7.85645 11.2474 7.85645C14.7166 7.85645 16.7147 9.70249 16.7147 12.9219Z" fill="#FAF9F8"/>
-      <path d="M70.2631 17.8479V16.9685C70.2631 11.5175 66.8159 7.85449 61.6772 7.85449C56.5385 7.85449 52.7246 11.5311 52.7246 16.4087C52.7246 21.2862 56.5085 24.9996 61.9237 24.9996C64.6394 24.9996 67.2488 24.2364 68.812 22.9928L66.7858 20.093C65.7316 20.8775 64.1003 21.3947 62.6132 21.3947C59.7713 21.3947 58.3283 19.7385 57.9535 18.3206C57.8934 18.1791 57.8693 17.8479 57.8693 17.8479H70.2631ZM57.7891 14.9055L57.8493 14.5859C58.1118 13.0749 59.2622 11.4613 61.6792 11.4613C64.2526 11.4613 65.3729 13.1544 65.5452 14.6014L65.5833 14.9074H57.7911L57.7891 14.9055Z" fill="#FAF9F8"/>
-      <path d="M76.611 8.27051H71.6387V24.5866H76.611V8.27051Z" fill="#FAF9F8"/>
-      <path d="M30.1322 8.27147H35.0985V24.5875H30.1322V22.2901L29.6612 22.6969C28.3906 23.8166 26.192 25.0001 23.8512 25.0001C20.3519 25.0001 18.4219 23.2277 18.4219 20.0063V8.26953H23.3942V17.8039C23.3942 19.8165 24.4264 20.7986 26.5428 20.7986C28.2924 20.7986 29.4287 19.8533 30.0721 19.0552L30.1322 18.9816V8.26953V8.27147Z" fill="#FAF9F8"/>
-      <path d="M53.7598 8.27051L47.156 24.5846H41.6506L35.0469 8.27051H40.2898L44.4043 19.3158L48.5169 8.27051H53.7598Z" fill="#FAF9F8"/>
-      <path d="M77.0002 2.79715C77.0002 4.36619 75.7356 5.5943 74.1202 5.5943C72.5049 5.5943 71.2402 4.36619 71.2402 2.79715C71.2402 1.22811 72.5049 0 74.1202 0C75.7356 0 77.0002 1.22811 77.0002 2.79715Z" fill="#160850"/>
-    </g>
+  <text x="156" y="278" fill="#FAF9F8" font-family="Georgia, 'Source Serif 4', serif" font-size="90">The infrastructure for</text>
+  <text x="156" y="382" fill="#FAF9F8" font-family="Georgia, 'Source Serif 4', serif" font-size="116">every payment, everywhere.</text>
+  <rect x="156" y="426" width="136" height="8" rx="4" fill="#0C98D4"/>
+  <text x="156" y="506" fill="#FAF9F8" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="650">A documentation hub for pay-ins, payouts, risk, data, and global launch readiness.</text>
+  <g font-family="Inter, Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <rect x="1492" y="112" width="202" height="92" rx="18" fill="#FAF9F8"/>
+    <text x="1593" y="154" fill="#160850" font-size="34">720+</text>
+    <text x="1593" y="184" fill="#160850" font-size="18">payment methods</text>
+    <rect x="1724" y="196" width="202" height="92" rx="18" fill="#FAF9F8"/>
+    <text x="1825" y="238" fill="#160850" font-size="34">150+</text>
+    <text x="1825" y="268" fill="#160850" font-size="18">currencies</text>
+    <rect x="1956" y="112" width="202" height="92" rx="18" fill="#FAF9F8"/>
+    <text x="2057" y="154" fill="#160850" font-size="34">200+</text>
+    <text x="2057" y="184" fill="#160850" font-size="18">markets</text>
+    <rect x="1610" y="306" width="202" height="92" rx="18" fill="#FAF9F8"/>
+    <text x="1711" y="348" fill="#160850" font-size="34">50+</text>
+    <text x="1711" y="378" fill="#160850" font-size="18">local acquiring</text>
+    <rect x="1842" y="390" width="250" height="92" rx="18" fill="#0C98D4"/>
+    <text x="1967" y="432" fill="#FAF9F8" font-size="32">One hub</text>
+    <text x="1967" y="462" fill="#FAF9F8" font-size="18">for every audience</text>
   </g>
-  <text x="168" y="300" fill="#FAF9F8" font-family="Georgia, 'Source Serif 4', 'Source Serif Pro', serif" font-size="92">Every payment,</text>
-  <text x="168" y="404" fill="#160850" font-family="Georgia, 'Source Serif 4', 'Source Serif Pro', serif" font-size="104">everywhere.</text>
-  <rect x="168" y="462" width="138" height="8" fill="#FAF9F8"/>
-  <text x="168" y="538" fill="#160850" font-family="Inter Tight, Inter, Arial, sans-serif" font-size="42" font-weight="600">Every answer, in one hub.</text>
-  <text x="168" y="592" fill="#FAF9F8" font-family="Inter Tight, Inter, Arial, sans-serif" font-size="28">A Nuvei-branded documentation experience for merchants, developers, and operations teams.</text>
-  <defs>
-    <clipPath id="nuvei-logo-clip">
-      <rect width="77" height="25" fill="#fff"/>
-    </clipPath>
-  </defs>
 </svg>
