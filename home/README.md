@@ -1,7 +1,7 @@
 ---
 description: "A Nuvei-branded documentation hub for global payments, developer integration, and operational launch readiness."
 icon: house
-cover: "https://raw.githubusercontent.com/gitbook-demo-sites/nuvei-demo-site-20260701/main/assets/nuvei-minimal-banner.svg?v=20260703b"
+cover: "https://raw.githubusercontent.com/gitbook-demo-sites/nuvei-demo-site-20260701/main/assets/nuvei-minimal-banner.svg?v=20260709a"
 coverY: 0
 layout:
   width: wide
